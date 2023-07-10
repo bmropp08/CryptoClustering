@@ -1,1 +1,1 @@
-# CryptoClustering
+In this activity, you will find code that extracts codes from CSV files and uses several techniques of data processing for unsupervised learning. It uses features like standard scalar(normal distribution), k-means(centroid based for clustering), Elbow Curve (to determine the number of clusters), and PCA(Reduction of features). The code uses all of these features to run a training data set that will then make predictions on the best number of clusters to use that will find relationships within an unsupervised learning data set. 
